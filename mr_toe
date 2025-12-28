@@ -69,6 +69,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -- L0_0 = function() local _ = 1029384756; return string.char(math.random(65,90)) end
 -- function v_0x9A(_x) return (_x * 0xAF) % 0xFF end
 -- local _0xBC = {0x12, 0xAF, 0x3C, 0x99, 0x22, 0xFE, 0x01, 0x88, 0x74, 0x23}
